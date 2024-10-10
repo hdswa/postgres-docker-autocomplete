@@ -2,8 +2,8 @@
 
 Este documento proporciona instrucciones para configurar el entorno de desarrollo, incluyendo cómo levantar la base de datos y cómo instalar las dependencias de Python del servidor.
 
--Autor: Felipe Ye Chen
--Correo: yefelipe78@gmail.com
+-Autor: Felipe Ye Chen.
+-Correo: yefelipe78@gmail.com.
 
 
 ## Documentaición de cambios realizado
