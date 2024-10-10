@@ -7,7 +7,7 @@ Este documento proporciona instrucciones para configurar el entorno de desarroll
 
 
 ## Documentaición de cambios realizado
-    https://docs.google.com/document/d/1A4qI3s-chSef3anDG6LPnCRY5iQaE78xwhA8RLDObBs/edit?usp=sharing
+https://docs.google.com/document/d/1A4qI3s-chSef3anDG6LPnCRY5iQaE78xwhA8RLDObBs/edit?usp=sharing
 ## Requisitos Previos
 
 - Docker y Docker Compose instalados en tu máquina.
